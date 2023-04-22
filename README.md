@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Igor
 <hr>
-- 🌱 I’m currently learning c# 
-- ⚡ Im hosting on [hostyard](https://hostyard.eu).
+- 🌱 I’m currently learning c#<br>
+- ⚡ Im hosting on https://hostyard.eu).<br>
 - 🔎 html + css

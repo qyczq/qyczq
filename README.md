@@ -1,5 +1,4 @@
 ### 👋 Hi, I'm Igor
 <hr>
-- 🌱 I’m currently learning c#<br>
-- ⚡ Im hosting on https://hostyard.eu.<br>
-- 🔎 html + css
+- 🌱 I’m currently learning js<br>
+- 🔎 html + css + php + js
